@@ -7,7 +7,6 @@
 import numpy as np
 import pandas as pd
 import streamlit as st
-import plotly.graph_objects as go
 from sklearn.datasets import load_iris
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
