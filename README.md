@@ -1,3 +1,3 @@
-# Understanding the working of SVM with the help of sklearn
-# This ipython notebook specially contains several parameters which are used to manipulate SVM from scratch
+# Understanding the working of different classifiers with the help of sklearn
+# These ipython notebook specially contains several parameters which are used to manipulate classifiers from scratch
 # Learn and Explore
